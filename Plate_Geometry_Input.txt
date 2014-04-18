@@ -1,0 +1,11 @@
+***********************Plate Geometry Parameters***********************
+Plate Length (m)			Plate Height (m)			PlateWidth (m)
+0.6477						0.001016					0.1102868
+
+*******************Fluid Channel Geometry Parameters*******************
+Small Channel Height (m)	Large Channel Height (m)
+0.002032					0.00254
+
+********************Fluid Plenum Geometry Parameters********************
+Inlet Length (m)			Outlet Length (m)
+0.1905						0.0762
